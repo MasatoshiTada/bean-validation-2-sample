@@ -1,4 +1,4 @@
-package com.example.validation;
+package com.example.validation.repeatable;
 
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
