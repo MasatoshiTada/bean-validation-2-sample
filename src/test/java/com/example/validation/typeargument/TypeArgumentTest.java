@@ -38,7 +38,7 @@ public class TypeArgumentTest {
         sample.addToOptionalInt(20);
 
         Set<ConstraintViolation<Sample>> violations = validator.validate(sample);
-        assertEquals(2, violations.size());
+        assertEquals(3, violations.size());
     }
 
     @Test
